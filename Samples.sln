@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Objects", "Objects\Objects.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structs and Enums", "Structs\Structs and Enums.csproj", "{E6B2018D-B947-46EA-9836-245F624D9B84}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructors\Constructors.csproj", "{63653BE5-4416-4C65-8227-F5BD267817D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{E6B2018D-B947-46EA-9836-245F624D9B84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6B2018D-B947-46EA-9836-245F624D9B84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6B2018D-B947-46EA-9836-245F624D9B84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63653BE5-4416-4C65-8227-F5BD267817D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63653BE5-4416-4C65-8227-F5BD267817D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63653BE5-4416-4C65-8227-F5BD267817D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63653BE5-4416-4C65-8227-F5BD267817D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
