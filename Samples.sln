@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structs and Enums", "Struct
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructors\Constructors.csproj", "{63653BE5-4416-4C65-8227-F5BD267817D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetSet", "GetSet\GetSet.csproj", "{D40E648E-F4E4-43C5-BE0B-D3DBBA4475FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{63653BE5-4416-4C65-8227-F5BD267817D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63653BE5-4416-4C65-8227-F5BD267817D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63653BE5-4416-4C65-8227-F5BD267817D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D40E648E-F4E4-43C5-BE0B-D3DBBA4475FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D40E648E-F4E4-43C5-BE0B-D3DBBA4475FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D40E648E-F4E4-43C5-BE0B-D3DBBA4475FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D40E648E-F4E4-43C5-BE0B-D3DBBA4475FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
