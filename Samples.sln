@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetSet", "GetSet\GetSet.csproj", "{D40E648E-F4E4-43C5-BE0B-D3DBBA4475FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Propriedades e Exceptions", "Propriedades\Propriedades e Exceptions.csproj", "{6C8A733F-12A2-43EC-B65F-5FE1D0C03D91}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{D40E648E-F4E4-43C5-BE0B-D3DBBA4475FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D40E648E-F4E4-43C5-BE0B-D3DBBA4475FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D40E648E-F4E4-43C5-BE0B-D3DBBA4475FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C8A733F-12A2-43EC-B65F-5FE1D0C03D91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C8A733F-12A2-43EC-B65F-5FE1D0C03D91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C8A733F-12A2-43EC-B65F-5FE1D0C03D91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C8A733F-12A2-43EC-B65F-5FE1D0C03D91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
